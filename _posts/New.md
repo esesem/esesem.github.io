@@ -1,3 +1,10 @@
+---
+title: "[LearningPython] Chapter1"
+date: 2020-09-28 15:28:28 +0900
+categories: python
+---
+
+
 # CHAPTER 1 파이썬 Q&A 세션
 
 <br>
